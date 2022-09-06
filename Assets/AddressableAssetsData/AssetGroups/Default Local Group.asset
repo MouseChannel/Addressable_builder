@@ -16,11 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 5506b3b29e893ab4d9df59182f92c9ba
-  m_SerializeEntries:
-  - m_GUID: f9e68fec6da1b5e459f11bb28a92d321
-    m_Address: Assets/address2Folder
-    m_ReadOnly: 0
-    m_SerializedLabels: []
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f3470c8011eb2b04f90345a602aaae3f, type: 2}
   m_SchemaSet:

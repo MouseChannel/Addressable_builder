@@ -44,9 +44,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 53ec251ad1c99864bb4bbd780e22273c, type: 2}
   - {fileID: 11400000, guid: 8dcc8b1f30572ba4ba67ce5723a207ac, type: 2}
   - {fileID: 11400000, guid: d051036202cc3824883c6bc27460fde3, type: 2}
-  - {fileID: 11400000, guid: e8b79f5e982b9e54f9f090c47a363dc7, type: 2}
-  - {fileID: 11400000, guid: b8b689a059a571946be316c8dd123fad, type: 2}
-  - {fileID: 11400000, guid: aa18efb0be22aa44b9dca3436a894f3a, type: 2}
+  - {fileID: 11400000, guid: 08fdd45e4020fee4cbd4cb362f644af0, type: 2}
+  - {fileID: 11400000, guid: 8be3cbe92ba3378419c5d8e1c616fd2b, type: 2}
+  - {fileID: 11400000, guid: e3eac9f0300190a469d1fde071b36f9f, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -58,16 +58,21 @@ MonoBehaviour:
       m_Id: 36b4c2001d698ad42805553871a78365
       m_ProfileName: Default
       m_Values:
-      - m_Id: ce8c4cc4fd3ecdb4d9a37392398edd10
+      - m_Id: 9b4d1ae3b8b0ee3428e2aea3f4a9e733
         m_Value: LocalData/Res
-      - m_Id: abea23f266366ca4791e13bb8ae0fcc1
-        m_Value: 
+      - m_Id: f72ec66331521134088971ba099b8fbb
+        m_Value: LocalData/Res1
+      - m_Id: 13e0716d55f363c4c9e18d43c27f8ab7
+        m_Value: 12121
     m_ProfileEntryNames:
-    - m_Id: ce8c4cc4fd3ecdb4d9a37392398edd10
+    - m_Id: 9b4d1ae3b8b0ee3428e2aea3f4a9e733
       m_Name: BuildPath
       m_InlineUsage: 0
-    - m_Id: abea23f266366ca4791e13bb8ae0fcc1
+    - m_Id: f72ec66331521134088971ba099b8fbb
       m_Name: LoadPath
+      m_InlineUsage: 0
+    - m_Id: 13e0716d55f363c4c9e18d43c27f8ab7
+      m_Name: qwq
       m_InlineUsage: 0
     m_ProfileVersion: 1
   m_LabelTable:
@@ -103,7 +108,7 @@ MonoBehaviour:
           m_Key: HostingServiceUploadSpeed
         - m_AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
           m_ClassName: System.String
-          m_Data: 
+          m_Data: ;LocalData/Res
           m_Key: ContentRoot
         - m_AssemblyName: mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
           m_ClassName: System.Boolean
